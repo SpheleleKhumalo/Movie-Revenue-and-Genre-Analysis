@@ -11,3 +11,11 @@ Popularity and high-rating analysis
 Genre frequency breakdown
 Trends over time for revenue, profit, and budget
 
+# Visual Highlights
+Bar charts comparing expensive vs. cheap and profitable vs. unprofitable movies
+Popularity and vote average charts
+Top 5 genre frequency visualized
+Revenue, profit, and budget trends over release year
+
+# License
+MIT License — feel free to use and build on this analysis.
